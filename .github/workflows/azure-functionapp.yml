@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: elab-letsencrypt-func
+  ResourceGroup: elab-letsencrypt-fn
 jobs:
   build:
     runs-on: ubuntu-latest
